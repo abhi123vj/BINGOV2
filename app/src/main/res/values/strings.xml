@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BINGO</string>
+    <string name="button">click button</string>
+    <string name="dialogTitle">BINGO!!!</string>
+    <string name="dialogMessage">Congratulations!! You WON</string>
+    <string name="dialogTitleF">LOST!!!</string>
+    <string name="dialogMessageF">Better Luck next time</string>
+</resources>
